@@ -1,5 +1,4 @@
 <?php
-// app/Helpers/sanitize.php
 
 class Sanitizer {
     /**
@@ -96,7 +95,4 @@ class Sanitizer {
     }
 }
 
-// Example usage:
-// $clean_input = Sanitizer::sanitizeString($_POST['input']);
-// $clean_email = Sanitizer::sanitizeEmail($_POST['email']);
 ?>
